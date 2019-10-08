@@ -1,0 +1,3 @@
+# SchoollInforma
+
+Schooll Information System
